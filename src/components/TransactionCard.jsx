@@ -29,7 +29,7 @@ const TransactionCard = () => {
     getApprovals();
   }, []);
   return (
-    <div className="container mx-auto w-full bg-white rounded-xl p-6 mt-40 md:mt-28 ">
+    <div className="container mx-auto w-full bg-white rounded-xl p-6 mt-40 md:-mt-8 ">
       <div className="text-2xl underline text-center py-6 rounded-full text-yellow-500 px-6 font-medium">
         <p>Scroll Down For Transactions</p>
       </div>

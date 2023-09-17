@@ -24,7 +24,7 @@ const HeroSection = () => {
             and is a known project that mints .eth domains as ERC721 tokens.{" "}
             <br />
             I’m choosing this project because it has a lot of movement and
-            transactions,
+            transactions. <br />The project is focus on exploring the data of the Ethereum name service token through the ENS Indexer Subgraph.
           </p>
           <a
             href="https://www.notion.so/ENS-Data-Explorer-86714e4851ea43fb938e951611525db4"
