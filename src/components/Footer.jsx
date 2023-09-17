@@ -12,6 +12,23 @@ const Footer = () => {
           The GraphExpo Team
         </a>
       </p>
+      <p className="text-[20px] text-white">
+        <a
+          href="https://github.com/Matthewokiemute/subgraph"
+          className=" text-yellow-500 underline"
+        >
+          Link to ENS Indexer Subgraph Codebase
+        </a>
+      </p>
+      <p className="text-[20px] text-white">
+        {" "}
+        <a
+          href="https://github.com/Matthewokiemute/ENS-Data-Explorer"
+          className=" text-yellow-500 underline"
+        >
+          Link to the Frontend Codebase
+        </a>
+      </p>
     </div>
   );
 };
